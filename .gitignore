@@ -1,0 +1,44 @@
+# User / Local Secrets
+.env
+.env.local
+.env.*.local
+
+# Archives
+*.zip
+*.tar.gz
+*.tgz
+
+# .NET / C#
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+.npm/
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+
+# Storage / Uploads
+**/data/photos/
+data/photos/
+
+# Build, Runtime and Environment
+bin/
+obj/
+node_modules/
+.angular/
+dist/
+*.log
+.env*
+coverage/

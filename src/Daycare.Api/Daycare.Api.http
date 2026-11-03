@@ -1,0 +1,6 @@
+@Daycare.Api_HostAddress = http://localhost:5240
+
+GET {{Daycare.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

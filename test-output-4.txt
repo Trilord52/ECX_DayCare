@@ -1,0 +1,21 @@
+/home/tri/Desktop/Projects/Work/Daycare/tests/Daycare.Architecture.Tests/Daycare.Architecture.Tests.csproj : warning NU1903: Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc
+/home/tri/Desktop/Projects/Work/Daycare/src/Daycare.Api/Daycare.Api.csproj : warning NU1903: Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc
+  Daycare.Domain -> /home/tri/Desktop/Projects/Work/Daycare/src/Daycare.Domain/bin/Debug/net10.0/Daycare.Domain.dll
+  Daycare.Application -> /home/tri/Desktop/Projects/Work/Daycare/src/Daycare.Application/bin/Debug/net10.0/Daycare.Application.dll
+  Daycare.Domain.Tests -> /home/tri/Desktop/Projects/Work/Daycare/tests/Daycare.Domain.Tests/bin/Debug/net10.0/Daycare.Domain.Tests.dll
+Test run for /home/tri/Desktop/Projects/Work/Daycare/tests/Daycare.Domain.Tests/bin/Debug/net10.0/Daycare.Domain.Tests.dll (.NETCoreApp,Version=v10.0)
+A total of 1 test files matched the specified pattern.
+  Daycare.Application.Tests -> /home/tri/Desktop/Projects/Work/Daycare/tests/Daycare.Application.Tests/bin/Debug/net10.0/Daycare.Application.Tests.dll
+  Daycare.Infrastructure -> /home/tri/Desktop/Projects/Work/Daycare/src/Daycare.Infrastructure/bin/Debug/net10.0/Daycare.Infrastructure.dll
+Test run for /home/tri/Desktop/Projects/Work/Daycare/tests/Daycare.Application.Tests/bin/Debug/net10.0/Daycare.Application.Tests.dll (.NETCoreApp,Version=v10.0)
+A total of 1 test files matched the specified pattern.
+  Daycare.Api -> /home/tri/Desktop/Projects/Work/Daycare/src/Daycare.Api/bin/Debug/net10.0/Daycare.Api.dll
+
+Passed!  - Failed:     0, Passed:    38, Skipped:     0, Total:    38, Duration: 194 ms - Daycare.Domain.Tests.dll (net10.0)
+  Daycare.Architecture.Tests -> /home/tri/Desktop/Projects/Work/Daycare/tests/Daycare.Architecture.Tests/bin/Debug/net10.0/Daycare.Architecture.Tests.dll
+Test run for /home/tri/Desktop/Projects/Work/Daycare/tests/Daycare.Architecture.Tests/bin/Debug/net10.0/Daycare.Architecture.Tests.dll (.NETCoreApp,Version=v10.0)
+A total of 1 test files matched the specified pattern.
+
+Passed!  - Failed:     0, Passed:    41, Skipped:     0, Total:    41, Duration: 709 ms - Daycare.Application.Tests.dll (net10.0)
+
+Passed!  - Failed:     0, Passed:     5, Skipped:     0, Total:     5, Duration: 364 ms - Daycare.Architecture.Tests.dll (net10.0)
